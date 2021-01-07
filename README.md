@@ -1,7 +1,7 @@
 # Clone Instagram
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pleonardodp/clone-instagram.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pleonardodp12/clone-instagram.svg">
   </a>
 </p>
 
